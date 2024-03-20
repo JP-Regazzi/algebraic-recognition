@@ -1,1 +1,3 @@
-create a folder called local/ for any files that you don't want to submit to the repo
+### Algebraic recognition
+
+Algebraic recognition to evaluate the similarity of mathematical expressions
